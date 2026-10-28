@@ -1,0 +1,22 @@
+body {
+    background-color: #050b1a;
+}
+
+button {
+    background-color: red;
+}
+
+h1 {
+    color: whitesmoke;
+    font-style: italic;
+    float: left;
+}
+
+span {
+    color: green;
+    text-decoration: underline;
+}
+
+
+
+
